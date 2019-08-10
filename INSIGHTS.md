@@ -1,4 +1,4 @@
-Pruebas para la detección del cierre de la conexión en un lado del socket:
+Pruebas para la detección del cierre de la conexión en un lado del socket: 
 
 1. Cerrar la conexión en cliente sin timeout
     El servidor no sabe nada hasta que intenta leer del InputStream
