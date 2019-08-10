@@ -1,0 +1,1 @@
+## Testing Java Socket communication on closing any point in the communication
